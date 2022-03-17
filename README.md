@@ -1,4 +1,4 @@
-![Web Developer || MERN Stack](https://media-exp1.licdn.com/dms/image/C5616AQGbBeljCFi5bw/profile-displaybackgroundimage-shrink_200_800/0/1647557374905?e=1652918400&v=beta&t=gvCcelLG8-6H4ujiJehRgenmFDNCzkipymxrqE_jh18)
+![Web Developer || MERN Stack](https://media-exp1.licdn.com/dms/image/C5616AQHfUNEuoZ954Q/profile-displaybackgroundimage-shrink_200_800/0/1647557580447?e=1652918400&v=beta&t=xhyO7M7AYrG2-synOA7KUZMG5IzThPkBf4lLYROLLAw)
 
 ## Hello, I am Nishat Fariza.
 #### Web Developer || MERN Stack
