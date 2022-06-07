@@ -1,7 +1,7 @@
-![Web Developer || MERN Stack](https://media-exp1.licdn.com/dms/image/C5616AQHfUNEuoZ954Q/profile-displaybackgroundimage-shrink_200_800/0/1647557580447?e=1652918400&v=beta&t=xhyO7M7AYrG2-synOA7KUZMG5IzThPkBf4lLYROLLAw)
+![Web Developer || Frontend Developer || MERN Stack](https://www.linkedin.com/in/nishatfariza/overlay/background-image/)
 
 ## Hello, I am Nishat Fariza.
-#### Web Developer || MERN Stack
+#### Web Developer || Frontend dev || MERN Stack
 
 
 I am a React Lover.
