@@ -1,32 +1,33 @@
-![Web Developer || Frontend Developer || MERN Stack](https://www.linkedin.com/in/nishatfariza/overlay/background-image/)
+![Frontend Developer || React developer || Enthusiast in Web Application Development](https://www.linkedin.com/in/nishatfariza/overlay/background-image/)
 
-## Hello, I am Nishat Fariza.
-#### Web Developer || Frontend dev || MERN Stack
+### Hi there 👋, I am Nishat Fariza
+#### Frontend Developer || React developer || Enthusiast in Web Application Development
 
 
-I am a React Lover.
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: REACT / JS / HTML / CSS/ Bootstrap / Tailwind 
+Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Express.js / MongoDB / Firebase / JWT Token 
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently working on Web Development 
+- 🌱 I’m currently learning TypeScript || Redux 
 - 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Frontend Development 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NishatFariza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/NishatFariza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nishatfariza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nishatfariza/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/NishatFariza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nishatfariza//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nishat.fariza/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/nishatfariza//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/FarizaNishat)  
 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=NishatFariza)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/NishatFariza)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NishatFariza)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/NishatFariza)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NishatFariza&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/NishatFariza&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NishatFariza)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/NishatFariza)  
 
-![GitHub metrics](https://metrics.lecoq.io/NishatFariza)  
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/NishatFariza)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NishatFariza)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/NishatFariza)  
 
-![Profile views](https://gpvc.arturio.dev/NishatFariza)  
+![Profile views](https://gpvc.arturio.dev/https://github.com/NishatFariza)  
