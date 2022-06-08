@@ -19,9 +19,9 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/NishatFariza)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/NishatFariza&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/NishatFariza&show_icons=true&count_private=true) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/NishatFariza)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NishatFariza) 
 
 ![GitHub metrics](https://metrics.lecoq.io/NishatFariza)  
 
@@ -29,9 +29,6 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
 
 ![Profile views](https://gpvc.arturio.dev/NishatFariza)  
 
+  
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NishatFariza)  
-
-![GitHub metrics](https://metrics.lecoq.io/NishatFariza)  
 
