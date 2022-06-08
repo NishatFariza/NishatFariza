@@ -42,7 +42,7 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
 
 ![GitHub metrics](https://metrics.lecoq.io/NishatFariza)  
 
-![GitHub streak stats](https://github-readme-streak-stats/NishatFariza)  
+![GitHub streak stats](https://github-readme-streak/NishatFariza)  
 
 ![Profile views](https://gpvc.arturio.dev/NishatFariza)  
 
