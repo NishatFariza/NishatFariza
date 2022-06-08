@@ -23,7 +23,7 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/NishatFariza)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/NishatFariza)  
+![GitHub metrics](https://metrics.lecoq.io/NishatFariza)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/NishatFariza)  
 
@@ -35,4 +35,3 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
 
 ![GitHub metrics](https://metrics.lecoq.io/NishatFariza)  
 
-![Profile views](https://gpvc.arturio.dev/NishatFariza) 
