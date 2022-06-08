@@ -27,7 +27,7 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/NishatFariza)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/NishatFariza)  
+![Profile views](https://gpvc.arturio.dev/NishatFariza)  
 
 
 
