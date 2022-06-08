@@ -1,7 +1,6 @@
+![Frontend Developer || React developer || Enthusiast in Web Application Development](https://media-exp1.licdn.com/dms/image/C4D16AQHFEXI_9Vvz8Q/profile-displaybackgroundimage-shrink_350_1400/0/1654632688830?e=1660176000&v=beta&t=EiXOTowfKp7tRqQP4qeLgYed1gHcKihV56v5tHvwKuA)
 ### Hi there 👋, I am Nishat Fariza
 #### Frontend Developer || React developer || Enthusiast in Web Application Development
-![Frontend Developer || React developer || Enthusiast in Web Application Development](https://media-exp1.licdn.com/dms/image/C4D16AQHFEXI_9Vvz8Q/profile-displaybackgroundimage-shrink_350_1400/0/1654632688830?e=1660176000&v=beta&t=EiXOTowfKp7tRqQP4qeLgYed1gHcKihV56v5tHvwKuA)
-
 
 Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Express.js / MongoDB / Firebase / JWT Token
 
@@ -23,6 +22,7 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
+![Profile views](https://gpvc.arturio.dev/NishatFariza) 
 
 <p align="center">
    <table>
@@ -42,7 +42,7 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
 
 ![GitHub metrics](https://metrics.lecoq.io/NishatFariza)  
 
-![Profile views](https://gpvc.arturio.dev/NishatFariza)  
+ 
 
   
 
