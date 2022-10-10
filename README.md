@@ -1,4 +1,3 @@
-![Frontend Developer || React developer || Enthusiast in Web Application Development]
 ## Hi there 👋, I am Nishat Fariza
 ### Frontend Developer || React developer || Enthusiast in Web Application Development
 
