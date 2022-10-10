@@ -1,4 +1,4 @@
-![Frontend Developer || React developer || Enthusiast in Web Application Development](https://media-exp1.licdn.com/dms/image/C4D16AQHFEXI_9Vvz8Q/profile-displaybackgroundimage-shrink_350_1400/0/1654632688830?e=1660176000&v=beta&t=EiXOTowfKp7tRqQP4qeLgYed1gHcKihV56v5tHvwKuA)
+![Frontend Developer || React developer || Enthusiast in Web Application Development]
 ## Hi there 👋, I am Nishat Fariza
 ### Frontend Developer || React developer || Enthusiast in Web Application Development
 
