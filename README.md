@@ -35,13 +35,4 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NishatFariza&theme=blue-green&hide_border=true"></td>
      </tr>
    </table>
-</p>
-
-
-![GitHub metrics](https://metrics.lecoq.io/NishatFariza)  
-
- 
-
-  
-
-
+</p>  
