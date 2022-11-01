@@ -2,6 +2,7 @@
 ### Frontend Developer || React developer || Enthusiast in Web Application Development
 
 ![Profile views](https://gpvc.arturio.dev/NishatFariza) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NishatFariza&label=Profile%20views&color=E4405F&style=flat" alt="sNishatFariza" /> </p>
 
 Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Express.js / MongoDB / Firebase / JWT Token
 
