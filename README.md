@@ -3,6 +3,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/NishatFariza) 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/NishatFariza/count.svg" />
+</p>
 
 Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Express.js / MongoDB / Firebase / JWT Token
 
