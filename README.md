@@ -3,7 +3,6 @@
 
 ![Profile views](https://gpvc.arturio.dev/NishatFariza) 
 
-
 Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Express.js / MongoDB / Firebase / JWT Token
 
 - 🔭 I’m currently working on Web Development. 
