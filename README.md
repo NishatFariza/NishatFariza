@@ -23,7 +23,6 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
 </p><br/>
 
 
-
 <p align="center">
    <table>
    <h1 align="center">🏆 Github Stats</h1>
