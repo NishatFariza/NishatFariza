@@ -16,7 +16,6 @@ Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Exp
 
 ## :computer: Technologies that I know
 
-
 <br>
 
 <p align="center">
