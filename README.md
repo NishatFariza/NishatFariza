@@ -3,6 +3,29 @@
 
 ![Profile views](https://gpvc.arturio.dev/NishatFariza) 
 
+## Profile Views
+
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/NishatFariza"> <img src="https://komarev.com/ghpvc/?username=thinkright20&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+
 Skills: REACT / JS / HTML / CSS/Bootstrap / Tailwind / JavaScript /Node.js / Express.js / MongoDB / Firebase / JWT Token
 
 - 🔭 I’m currently working on Web Development. 
