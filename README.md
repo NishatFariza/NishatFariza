@@ -1,8 +1,6 @@
 ## Hi there 👋, I am Nishat Fariza
 ### Frontend Developer || React developer || Enthusiast in Web Application Development
 
-![Profile views](https://gpvc.arturio.dev/NishatFariza) 
-
 ## Profile Views
 
 
